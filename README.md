@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kacperalke
-- 👀 I’m interested in travelling, obstacles racing and developing my knowledge and skills in any areas.
+- 👀 I’m interested in travelling, obstacles racings and developing my knowledge and skills in any areas.
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.facebook.com/kacper.girtler, https://www.instagram.com/gibraltarro/
